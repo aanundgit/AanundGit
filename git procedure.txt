@@ -27,5 +27,9 @@ git push -u AanundGit master
  $ git remote add AanundDropbixGit ~/Dropbox/MyGitDocs 
 git push -u AanundDropboxGit master
 
+AanundDropbixGit
+
+rm -f ./.git/index.lock
+
 
 
