@@ -22,4 +22,10 @@ git remote add AanundGit https://github.com/aanundgit/AanundGit.git
 
 git push -u AanundGit master
 
+ ~/Dropbox/MyGitDocs
+
+ $ git remote add AanundDropbixGit ~/Dropbox/MyGitDocs 
+git push -u AanundDropboxGit master
+
+
 
